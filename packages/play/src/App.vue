@@ -3,7 +3,7 @@
 
 <template>
   <div>
-   <er-button></er-button>
+   <er-button type="primary" size="small">test</er-button>
   </div>  
 </template>
 
